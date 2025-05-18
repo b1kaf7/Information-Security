@@ -1,0 +1,24 @@
+Information Security Programs List (Implementation in C / C++)
+
+1. WAP to implement Caesar Cipher Algorithm.
+2. WAP to implement Mono-Aphabetic Cipher Algorithm.
+3. WAP to implement Playfair cipher Algorithm.
+4. WAP to implement Hill Cipher Algorithm.
+5. WAP to implement Vigener Cipher Algorithm.
+6. WAP to implement Vernam Cipher Algorithm.
+7. WAP to implement Rail Fence Cipher Algorithm.
+8. WAP to implement Euclidean Algorithm.
+9. WAP to find first twenty Prime numbers.
+10. WAP to implement Fermat’s Theorem to test a given number is prime or not.
+11. WAP to implement Euler’s Theorem to find given numbers are relatively prime or not.
+12. WAP to find Euler’s Totient function of a given number.
+13. WAP to implement Diffie-Helman key exchange algorithm.
+14. WAP to implement RSA algorithm.
+15. Test the DES algorithm for encryption and decryption by using online tool.
+https://anycript.com/crypto/des
+
+16. Test the AES algorithm for encryption and decryption by using online tool.
+https://anycript.com/crypto
+
+17. Test the SHA-256 by using some cryptographic tool to demonstrate.
+https://10015.io/tools/sha256-encrypt-decrypt
